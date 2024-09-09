@@ -1,0 +1,43 @@
+:root{
+    --colour-primary: #573008;
+    --colour-secondary: #c00909;
+}
+
+.bg-primary{
+    background-color: lightsalmon;
+}
+.bg-secondary{
+    background-color: lightcoral;
+}
+.bg-white{
+    background-color: white;
+}
+
+.text-primary{
+    color: ;
+}
+.text-secondary{
+    color: ;
+}
+.text-white{
+    color: white
+}
+
+.text-sm{
+    font-size: 14px;
+}
+.text-md{
+    font-size:16px ;
+}
+.text-lg{
+    font-size: 18px;
+}
+.text-xl{
+    font-size: 20px;
+}
+.text-2xl{
+    font-size: 24px;
+}
+.text-3xl{
+    font-size: 28px;
+}
